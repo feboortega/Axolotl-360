@@ -1,10 +1,10 @@
-# [Traccar Manager for iOS](https://www.traccar.org/manager)
+# [Axolotl Geo for iOS](http://axtraccar.eastus.cloudapp.azure.com:8082/)
 
 [![Download on the App Store](http://www.tananaev.com/badges/app-store.svg)](https://itunes.apple.com/app/traccar-manager/id1113966562)
 
 ## Overview
 
-Traccar Manager is a mobile application to manage GPS tracking devices. It requires a Traccar server instance to work.
+Axolotl Geo is a mobile application to manage GPS tracking devices based on Traccar proyect. It requires a Traccar server instance to work.
 
 ## Build
 
@@ -16,8 +16,13 @@ pod install
 
 ## Team
 
-- Anton Tananaev ([anton@traccar.org](mailto:anton@traccar.org))
-- William Pearse ([w.pearse@gmail.com](mailto:w.pearse@gmail.com))
+- Jorge Omar Ramses Jardon Alonso ([jardon_ici@axolotl.mail.sedena.gob.mx]
+- Juan Alberto Nuño Padilla ([padilla_ici@axolotl.mail.sedena.gob.mx]
+- José Ramirez Moreno ([moreno_ici@axolotl.mail.sedena.gob.mx]
+- Felipe Ortega Rojas ([ortega_ici@axolotl.mail.sedena.gob.mx]
+- Jose Alfredo Vazquez Duran ([durasnici@axolotl.mail.sedena.gob.mx]
+- Gabriel Gruz Gaspar ([gaspar_ici@axolotl.mail.sedena.gob.mx]
+
 
 ## License
 
